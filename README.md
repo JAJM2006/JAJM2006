@@ -2,7 +2,6 @@
 
 Hello, my name is Geordie Mac. I'm a student developer and data science enthusiast working on personal projects, data analysis, and system configurations. Currently preparing for an MSc in Development-related studies.
 
-A short summary is above — open the sections below for more detail.
 
 <details>
 <summary><strong>About</strong></summary>
