@@ -1,6 +1,6 @@
 # JAJM2006
 
-Hello, my name is Geordie Mac. I'm a student developer and data science enthusiast working on personal projects, data analysis, and system configurations. Currently preparing for an MSc in Development-related studies.
+Hello, my name is Geordie Mac. I'm a student developer and data science enthusiast working on personal projects, data analysis, and system configurations. Currently preparing for an MSc in Development from Newcastle University's School of Geography.
 
 
 <details>
