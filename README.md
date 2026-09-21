@@ -1,6 +1,6 @@
 # JAJM2006
 
-Hello, my name is Geordie Mac. I'm a student developer and data science enthusiast working on personal projects, data analysis, and system configurations. Currently preparing for an MSc in Development from Newcastle University's School of Geography.
+Hello, my name is Geordie Mac. I'm a student developer and data science enthusiast working on personal projects, data analysis, and system configurations. Currently doing an MSc in Development from Newcastle University's School of Geography, Politics, and Sociology.
 
 
 <details>
@@ -23,7 +23,7 @@ My interests sit at the intersection of technology and development—specificall
 - Nix (declarative system configurations)
 - R (data analysis and visualization)
 - COBOL (legacy systems exploration)
-- BASIC (programming fundamentals)
+- LaTeX (Write ups)
 
 I also work with data science workflows, web development, and Unix-like environments.
 
